@@ -1,0 +1,22 @@
+ID,Name,Age,Gender,Region,Car,Units,Sales,Date,Erroneous_Column1,Erroneous_Column2,Erroneous_Column3
+1,Jobdste,28,Male,East,Ford,55,1228795,1/1/2024,Error1,Data1,Value1
+2,adad,35,Male,East,Ferrari,55,1268745,1/1/2024,Error2,Data2,Value2
+3,Mary,41,Female,South,Honda,66,3214569,1/1/2024,Error3,Data3,Value3
+4,Mark,30,Male,North,KIA,21,5213647,1/2/2024,Error4,Data4,Value4
+5,daadad,25,eqqe,West,Ipha Rome,32,6523147,1/2/2024,Error5,Data5,Value5
+6,Jennifer,29,Female,West,Ford,44,3214587,1/3/2024,Error6,Data6,Value6
+7,qeqe,33,Male,West,BMW,43,6325417,1/3/2024,Error7,Data7,Value7
+8,wqw,32,Male,South,Auadaddi,43,4512639,1/4/2024,Error8,Data8,Value8
+9,Jeffery,38,Male,North,eq,43,6398742,1/4/2024,Error9,Data9,Value9
+10,Morgan,24,Female,East,Toyota,43,3285697,1/5/2024,Error10,Data10,Value10
+11,adad,31,Male,q,Toyota,43,7896541,1/5/2024,Error11,Data11,Value11
+12,qeq,27,qe,East,Honda,36,6587413,1/6/2024,Error12,Data12,Value12
+13,dw,28,Female,West,Toyota,43,7975738,1/6/2024,Error13,Data13,Value13
+14,q,34,Male,West,BMW,65,8244222,1/7/2024,Error14,Data14,Value14
+15,daadad,26,eqqe,South,Audi,43,6589423,1/7/2024,Error15,Data15,Value15
+16,qee,37,Male,South,Mercedes,44,6488462,1/8/2024,Error16,Data16,Value16
+17,Tim,32,Male,West,Audi,43,9555326,1/8/2024,Error17,Data17,Value17
+18,Jeffery,39,Male,West,Volkswagen,35,5565742,1/9/2024,Error18,Data18,Value18
+19,Joe,41,Male,North,Toyota,35,3214569,1/9/2024,Error19,Data19,Value19
+20,John,32,Male,South,Honda,36,9856321,1/10/2024,Error20,Data20,Value20
+21,Mark,29,Male,West,Ford,75,9856578,1/10/2024,Error21,Data21,Value21

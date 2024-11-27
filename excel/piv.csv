@@ -1,0 +1,37 @@
+Date,Product,Region,SalesAmount,UnitsSold,,
+1/1/2024,Shirt,North,500,50,,
+1/1/2024,Shirt,South,450,45,,
+1/1/2024,Pants,North,700,70,,
+1/1/2024,Pants,South,600,60,,
+2/1/2024,Shirt,North,550,55,,
+2/1/2024,Shirt,South,470,47,,
+2/1/2024,Pants,North,750,75,,
+2/1/2024,Pants,South,620,62,,
+3/1/2024,Shirt,North,600,60,,
+3/1/2024,Shirt,South,480,48,,
+3/1/2024,Pants,North,800,80,,
+3/1/2024,Pants,South,650,65,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"gouls:rows=product,date",,,Sum of SalesAmount,Column Labels,,
+column=region,,,Row Labels,North,South,Grand Total
+values=salesAmount,,,Pants,700,600,1300
+,,,1/1/2024,700,600,1300
+,,,Shirt,500,450,950
+,,,1/1/2024,500,450,950
+,,,Grand Total,1200,1050,2250
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

@@ -1,0 +1,31 @@
+S_no,Name,Region,Car,Units,Sales
+1,Joe,East,Ford,55,1228795
+2,John,East,Ferrari,55,1268745
+3,Mary,South,Honda,66,3214569
+4,Mark,North,KIA,21,5213647
+5,Sunan,West,Ipha Rome,32,6523147
+6,Jennifer,West,Ford,44,3214587
+7,Mike,West,BMW,43,6325417
+8,Tim,South,Audi,43,4512639
+9,Jeffery,North,Volkswagen,43,6398742
+10,Morgan,East,Toyota,43,3285697
+11,Mark,East,Toyota,43,7896541
+12,Sunan,East,Honda,36,6587413
+13,Jennifer,West,Toyota,43,7975738
+14,Mike,West,BMW,65,8244222
+15,Jennifer,South,Audi,43,6589423
+16,Mike,South,Mercedes,44,6488462
+17,Tim,West,Audi,43,9555326
+18,Jeffery,West,Volkswagen,35,5565742
+19,Joe,North,Toyota,35,3214569
+20,John,South,Honda,36,9856321
+21,Mark,West,Ford,75,9856578
+,,,,,
+,,,,,
+,,,,,
+,Sum of Sales,Column Labels,,,
+,Row Labels,North,Grand Total,,
+,KIA,5213647,5213647,,
+,Toyota,3214569,3214569,,
+,Volkswagen,6398742,6398742,,
+,Grand Total,14826958,14826958,,
